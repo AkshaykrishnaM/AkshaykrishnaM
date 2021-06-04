@@ -11,6 +11,6 @@
 
 [website]: https://akshaykrishna.me/
 [twitter]: https://twitter.com/akshaykrishna_m/
-[linkedin]: www.linkedin.com/in/krishnaAkshay/
+[linkedin]: https://linkedin.com/in/krishnaAkshay/
 [instagram]: https://www.instagram.com/brutal_hawk0216/
 
