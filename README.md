@@ -1,2 +1,4 @@
+Hello there 🐶
 
-<div class="tenor-gif-embed" data-postid="24894538" data-share-method="host" data-aspect-ratio="0.778125" data-width="100%"><a href="https://tenor.com/view/hacker-meme-hacker-hacker-icon-gamer-nekro-mongas-gif-24894538">Hacker Meme Hacker Icon Sticker</a>from <a href="https://tenor.com/search/hacker+meme-stickers">Hacker Meme Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+https://c.tenor.com/nP7Hl7wEZOcAAAAi/hacker-meme-hacker.gif
